@@ -9,3 +9,5 @@ Here we are given a graph in form of the ```edges```. We need to determine the `
 Requires Advanced Concepts: 
 * Binary Lifting 
 * Disjoint Set Union 
+* Minimum Spanning Tree Algorithms
+* Tarjan’s Theorem (for proving the conjecture)
